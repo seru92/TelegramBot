@@ -1,8 +1,6 @@
-
+Prueba
 const TelegramBot = require('node-telegram-bot-api');
 const weather = require('weather-js');
-
-
 var mqtt = require('mqtt');
 const fs = require('fs');
 let chat_id = 325118843;
