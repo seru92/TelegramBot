@@ -1,0 +1,14 @@
+{
+  "name": "telegram-bot",
+  "version": "0.0.0",
+  "description": "TelegramBot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "mqtt": "^2.18.8",
+    "weather-js": "^2.0.0"
+  }
+}
