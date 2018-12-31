@@ -9,6 +9,8 @@
   "dependencies": {
     "JSON": "^1.0.0",
     "mqtt": "^2.18.8",
+    "node-domoticz-mqtt": "^1.2.2",
+    "node-telegram-bot-api": "^0.30.0",
     "weather-js": "^2.0.0"
   }
 }
